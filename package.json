@@ -1,6 +1,6 @@
 {
   "name": "@recondition/css",
-  "version": "2.2.4",
+  "version": "2.2.5",
   "description": "CSS parser / stringifier",
   "main": "index",
   "files": [
