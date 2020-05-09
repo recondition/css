@@ -1,5 +1,5 @@
 {
-  "name": "css",
+  "name": "@recondition/css",
   "version": "2.2.4",
   "description": "CSS parser / stringifier",
   "main": "index",
