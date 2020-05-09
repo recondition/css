@@ -4,12 +4,12 @@ CSS parser / stringifier.
 
 ## Installation
 
-    $ npm install css
+    $ npm install @recondition/css
 
 ## Usage
 
 ```js
-var css = require('css');
+var css = require('@recondition/css');
 var obj = css.parse('body { font-size: 12px; }', options);
 css.stringify(obj, options);
 ```
